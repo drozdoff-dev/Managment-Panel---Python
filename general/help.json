@@ -1,0 +1,8 @@
+{
+    "commands": [
+        { "command": "/help", "description": "Узнать список доступных команд." },
+        { "command": "/servers", "description": "Список серверов для переключения." },
+        { "command": "/select_server [server]", "description": "Выбрать сервер управления." },
+        { "command": "/quit(/q,/leave)", "description": "Выйти из панели управления." }
+    ]
+}

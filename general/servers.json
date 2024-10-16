@@ -1,0 +1,5 @@
+{
+    "servers": [
+        { "name": "index", "protocol": "http", "host": "localhost", "port": "8080", "secret_key": "abc" }
+    ]
+}

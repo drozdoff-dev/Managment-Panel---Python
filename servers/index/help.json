@@ -1,0 +1,6 @@
+{
+    "commands": [
+        { "command": "/test1", "description": "test1" },
+        { "command": "/test2", "description": "test2" }
+    ]
+}
